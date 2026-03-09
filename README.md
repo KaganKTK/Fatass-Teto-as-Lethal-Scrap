@@ -3,7 +3,7 @@
 Time to add some extra "weight" to your scrap runs! This mod adds Fatass Teto to Lethal Company as a highly valuable, interactive scrap item.
 
 ## Features
-- **Valuable Loot:** Worth between 100-300 credits. Spawns naturally on all moons.
+- **Valuable Loot:** Worth between 40-120 credits. Spawns naturally on all moons.
 - **She makes noise!** Equip her and Left-Click to play custom sounds (fully synced so your crewmates can hear it too).
 - **Custom SFX:** Unique sounds for grabbing and dropping.
 - **Scannable:** Works perfectly with your ship's scanner (Right-Click).
@@ -17,4 +17,5 @@ Make sure you have **BepInEx** and **LethalLib** installed first.
 *(Important: The `.bundle` file must stay in the exact same folder as the `.dll` for the mod to work!)*
 
 ---
+
 *Created by Kagan* - Enjoy annoying your crewmates!
