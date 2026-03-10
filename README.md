@@ -1,6 +1,6 @@
-# Fatass Teto Mod (v1.0)
+# Kasane Teto Mod (v1.0)
 
-Time to add some extra "weight" to your scrap runs! This mod adds Fatass Teto to Lethal Company as a highly valuable, interactive scrap item.
+Time to add some extra fun to your scrap runs! This mod adds Kasane Teto to Lethal Company as a highly valuable, interactive scrap item.
 
 ## Features
 - **Valuable Loot:** Worth between 40-120 credits. Spawns naturally on all moons.
